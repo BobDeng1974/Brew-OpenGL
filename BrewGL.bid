@@ -1,0 +1,6 @@
+#ifndef BREWGL_BID
+#define BREWGL_BID
+
+#define AEECLSID_BREWGL        0xA0000001
+
+#endif //BREWGL_BID
